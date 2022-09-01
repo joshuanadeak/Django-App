@@ -1,0 +1,1 @@
+web: gunicorn joshuatestproject.wsgi --log-file -
